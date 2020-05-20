@@ -5,3 +5,7 @@ setting
   - tab = 2 
   dan 
   - ketik format -> centang bagian on save 
+
+cara menambahkan snippet sendiri -> file -> preferences -> user snippet -> new snippet untuk membuat yang baru
+
+snippet bertujuan untuk membantu programmer dalam mengetik kode

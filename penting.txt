@@ -1,4 +1,7 @@
 plugin membantu php 
-php intelphense untuk membantu menemukan kesalahan eror, dengan cara mengkonfigurasi baca konfigurasi
+php intelphense untuk membantu menemukan kesalahan eror, dengan cara mengkonfigurasi(baca konfigurasi)
 
-setting - tab =2 dan ketik format-> centang bagian on save 
+setting 
+  - tab = 2 
+  dan 
+  - ketik format -> centang bagian on save 
